@@ -1,4 +1,4 @@
-# Weed-4Class Project
+# Weed-Class Project
 
 ## Overview
 This repository contains the **Weed-4Class classification project**, which aims to classify images of weeds into four classes using various machine learning and deep learning techniques. The dataset also contains a set of negative images (non-weed samples). The project is divided into multiple phases (P1–P4), each using different techniques for feature extraction, classification, and clustering.
@@ -6,7 +6,7 @@ This repository contains the **Weed-4Class classification project**, which aims 
 ---
 
 ## Repository Structure
-
+```
 Weed-4Class-Project/
 ├── Weed-4class-43/ # Images for Weed Class 
 ├── Weed-4class-36/ # Images for Weed Class 
@@ -21,6 +21,7 @@ Weed-4Class-Project/
 ├── DM_P4.pdf # PDF report for Phase 4
 ├── getting-started-1.py # Helper Python scripts
 └── Untitled.ipynb # Miscellaneous experiments
+```
 
 markdown
 Copy
@@ -76,8 +77,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/lakshmiravuri544-hash/Weed-4Class-Project.git
-cd Weed-4Class-Project
+git clone https://github.com/lakshmiravuri544-hash/Weed-Class-Project.git
+cd Weed-Class-Project
 Open the respective Jupyter Notebook for the phase you want to explore:
 
 bash
